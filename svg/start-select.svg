@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   enable-background="new 0 0 67.409 33.206"
+   viewBox="0 0 67.409 33.206"
+   height="33.206px"
+   width="67.409px"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata8596"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs8594" />
+<g
+   style="display:inline"
+   id="Menu_Pressed">
+	<path
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-miterlimit:10;stroke-opacity:0"
+   id="path8541"
+   d="m 66.909,16.603 c 0,8.903 -7.229,16.103 -16.102,16.103 -8.901,0 -16.102,-7.2 -16.102,-16.103 0,-8.896 7.2,-16.103 16.102,-16.103 8.874,0 16.102,7.207 16.102,16.103 z"
+   stroke-miterlimit="10" />
+	<g
+   style="display:inline"
+   id="g8549">
+		<rect
+   style="fill:#666666"
+   id="rect8547"
+   height="1.5319999"
+   width="14.361"
+   y="19.705999"
+   x="43.612" /><rect
+   style="fill:#666666"
+   id="rect8545"
+   height="1.552"
+   width="14.361"
+   y="15.896"
+   x="43.612" /><rect
+   style="fill:#666666"
+   id="rect8543"
+   height="1.552"
+   width="14.361"
+   y="11.978"
+   x="43.612" />
+		
+		
+	</g>
+</g>
+<g
+   id="Switcher_PRessed">
+	<path
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-miterlimit:10;stroke-opacity:0"
+   id="path8552"
+   d="m 32.706,16.603 c 0,8.903 -7.201,16.103 -16.103,16.103 C 7.731,32.706 0.5,25.506 0.5,16.603 0.5,7.707 7.731,0.5 16.603,0.5 c 8.902,0 16.103,7.207 16.103,16.103 z"
+   stroke-miterlimit="10" />
+	<g
+   id="g8558">
+		<polygon
+   style="display:inline;fill:#666666"
+   id="polygon8554"
+   points="18.328,10.979 9.437,10.979 9.437,18.369 14.087,18.369 14.087,16.502 11.056,16.502 11.056,12.718 16.528,12.718 16.528,14.039 18.328,14.039 " />
+		<path
+   style="display:inline;fill:#666666"
+   id="path8556"
+   d="m 14.837,14.663 v 7.584 h 8.96 v -7.584 z m 7.161,5.784 h -5.47 v -3.945 h 5.47 z" />
+	</g>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>
