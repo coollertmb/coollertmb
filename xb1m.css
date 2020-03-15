@@ -1,6 +1,6 @@
 /*BEGIN xb1m Styling*/
 .controller.custom {
-    background: url(https://coollertmb.github.io/svg/base.svgz);
+    background: url(https://coollertmb.github.io/svg/base.svg);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://coollertmb.github.io/svg/disconnected.svgz);
+    background: url(https://coollertmb.github.io/svg/disconnected.svg);
 }
 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://coollertmb.github.io/svg/trigger.svgz);
+    background: url(https://coollertmb.github.io/svg/trigger.svg);
     opacity: 0;
 }
 
@@ -42,7 +42,7 @@
 .custom .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://coollertmb.github.io/svg/bumper.svgz);
+    background: url(https://coollertmb.github.io/svg/bumper.svg);
     opacity: 0;
 }
 
@@ -70,7 +70,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(https://coollertmb.github.io/svg/quadrant.svgz);
+    background: url(https://coollertmb.github.io/svg/quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -107,7 +107,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(https://coollertmb.github.io/svg/start-select.svgz);
+    background: url(https://coollertmb.github.io/svg/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -136,7 +136,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(https://coollertmb.github.io/svg/abxy.svgz);
+    background: url(https://coollertmb.github.io/svg/abxy.svg);
     width: 48px;
     height: 48px;
 }
@@ -181,7 +181,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(https://coollertmb.github.io/svg/stick.svgz);
+    background: url(https://coollertmb.github.io/svg/stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -210,7 +210,7 @@
 }
 
 .custom .face {
-    background: url(https://coollertmb.github.io/svg/dpad.svgz);
+    background: url(https://coollertmb.github.io/svg/dpad.svg);
     position: absolute;
     opacity: 0;
 }
