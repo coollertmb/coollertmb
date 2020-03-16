@@ -1,4 +1,12 @@
-/*BEGIN xb1m Styling*/
+/*begin xb1m styling
+
+xbox one minimalistic grayscale theme
+based on mrmcpowned's xbox one default theme
+edited by coollertmb
+v010
+
+*/
+
 .controller.custom {
     background: url(https://coollertmb.github.io/svg/base.svg);
     height: 630px;
@@ -257,4 +265,4 @@
     background: no-repeat center;
 }
 
-/*END xb1m Styling*/
+/*end xb1m styling*/
