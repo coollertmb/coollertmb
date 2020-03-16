@@ -3,7 +3,7 @@
 xbox one minimalistic grayscale theme
 based on mrmcpowned's xbox one default theme
 edited by coollertmb
-v010
+v013
 
 */
 
@@ -74,36 +74,6 @@ v010
     float: right;
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
-}
-
-.custom .quadrant {
-    position: absolute;
-    background: url(https://coollertmb.github.io/svg/quadrant.svg);
-    height: 45px;
-    width: 45px;
-    top: 258px;
-    left: 354px;
-    z-index: 0;
-}
-
-.custom .p0 {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-}
-
-.custom .p1 {
-    -webkit-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
-
-.custom .p2 {
-    -webkit-transform: rotate(270deg);
-    transform: rotate(270deg);
-}
-
-.custom .p3 {
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);
 }
 
 .custom .arrows {
