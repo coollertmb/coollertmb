@@ -23,14 +23,14 @@ v010
 
 .custom .triggers {
     width: 500px;
-    height: 410px;
+    height: 380px;
     position: absolute;
     top: 140px;
 }
 
 .custom .trigger {
     width: 50px;
-    height: 410px;
+    height: 380px;
     background: url(https://coollertmb.github.io/svg/sq/triggerl.svg);
     opacity: 0;
 }
