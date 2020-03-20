@@ -187,6 +187,9 @@ v001
 }
 
 .custom .face.pressed {
+    width: 168px;
+    height: 168px;
+    top: 0px;
     opacity: 1;
 }
 
