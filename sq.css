@@ -86,6 +86,7 @@ v001
 }
 
 .custom .back.pressed, .custom .start.pressed {
+    float: left;
     opacity: 1;
 }
 
