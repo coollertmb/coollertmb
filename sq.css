@@ -114,10 +114,10 @@ v001
     background: url(https://coollertmb.github.io/svg/sq/abxy.svg);
     width: 48px;
     height: 48px;
-    opacity: 0;
 }
 
 .custom .button.pressed {
+    background-position-y: -48px;
     opacity: 1;
 }
 
