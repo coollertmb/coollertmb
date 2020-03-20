@@ -86,15 +86,16 @@ v001
 }
 
 .custom .back.pressed, .custom .start.pressed {
-    float: left;
     opacity: 1;
 }
 
 .custom .back {
+    float: left;
     transform: rotate(0deg);
 }
 
 .custom .start {
+    float: right;
     transform: rotate(180deg);
 }
 
