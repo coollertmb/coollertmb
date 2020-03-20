@@ -82,6 +82,8 @@ v001
 
 .custom .back, .custom .start {
     background: url(https://coollertmb.github.io/svg/sq/start-select.svg);
+    width: 36px;
+    height: 36px;
     opacity: 0;
 }
 
@@ -112,6 +114,7 @@ v001
     background: url(https://coollertmb.github.io/svg/sq/abxy.svg);
     width: 48px;
     height: 48px;
+    opacity: 0;
 }
 
 .custom .button.pressed {
